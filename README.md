@@ -1,24 +1,26 @@
-# README
+# Lexicon
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A multistore book system management
 
-Things you may want to cover:
+## Stack
 
-* Ruby version
+- Vite
+- Inertia
+- React
+- Rails
+- Tailwind CSS
 
-* System dependencies
+## Setup
 
-* Configuration
+```bash
+bundle install
+```
 
-* Database creation
+```bash
+npm install
+```
+## Run Server
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```bash
+bin/dev
+```
